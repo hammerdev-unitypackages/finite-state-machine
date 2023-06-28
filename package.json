@@ -1,0 +1,21 @@
+{
+  "name": "com.hammerdev.finite-state-machine",
+  "version": "1.2.3",
+  "displayName": "Unity Finite State Machine",
+  "description": "FSM implementation in Unity",
+  "unity": "2019.1",
+  "documentationUrl": "https://github.com/hammerdev-unitypackages/finite-state-machine",
+  "changelogUrl": "https://github.com/hammerdev-unitypackages/finite-state-machine",
+  "licensesUrl": "https://github.com/hammerdev-unitypackages/finite-state-machine",
+  "dependencies": { },
+ "keywords": [
+    "fsm",
+    "Finite State Machine",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Daniel Carlos",
+    "email": "daniel.hammerdev@gmail.com",
+    "url": "https://github.com/hammerdev-unitypackages/finite-state-machine"
+  }
+}
